@@ -1,1 +1,1 @@
-# TechTest_MeLi_cv
+# DeepLearningStudies
